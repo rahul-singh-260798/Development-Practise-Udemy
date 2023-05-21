@@ -1,0 +1,26 @@
+*{
+  background-color: black;
+}
+
+h1{
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+color: white;
+
+}
+
+img{
+    border: 5px solid white;
+    width: 450px;
+    height: 350px;
+}
+
+div{
+    margin-top: 10%;
+    text-align: center;
+}
+
+p{
+ color: white;
+ 
+}
